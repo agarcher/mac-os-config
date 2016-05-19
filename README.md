@@ -10,3 +10,7 @@ Git config: http://stackoverflow.com/questions/13750953/is-it-possible-to-config
 ### Key repeat rate
 
 http://apple.stackexchange.com/questions/10467/how-to-increase-keyboard-key-repeat-rate-on-os-x
+
+### Window management
+
+https://www.spectacleapp.com/
